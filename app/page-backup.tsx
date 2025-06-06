@@ -48,7 +48,7 @@ export default function Home() {
             </div>
             
             <button className="w-full mt-8 py-4 px-6 bg-brand-gradient text-white font-semibold rounded-xl shadow-lg hover:shadow-glow transition-all duration-300">
-              Calculate Your Costs (Demo)
+              Calculate Your Costs
             </button>
           </div>
           
@@ -60,7 +60,7 @@ export default function Home() {
                 </svg>
               </div>
               <h3 className="text-xl text-white/80 font-medium mb-2">Ready to Calculate</h3>
-              <p className="text-white/60">This is a simplified version to test deployment. The interactive calculator will be restored once we confirm the app is working.</p>
+              <p className="text-white/60">Fill in your company details and click calculate to see your results</p>
             </div>
           </div>
         </div>
